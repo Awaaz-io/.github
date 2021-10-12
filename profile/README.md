@@ -1,4 +1,4 @@
-# ![Logo](https://nuva-io.live/img/nuvab&w.png)
+# ![Logo](https://raw.githubusercontent.com/nuva-in/.github/main/Logo.png)
 ## About Us
 We are an Indian Smart Speaker Brand. Our aim is to empower every Indian with Artificial Intilligence, which is MADE IN INDIA & MADE FOR THE WORLD.
 
